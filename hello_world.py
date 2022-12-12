@@ -1,3 +1,7 @@
+#PythonProgrammingExercisesGentlyExplained
+#By Al Swigert
+#Code examples by Danny Hardawar
+
 # Print "Hello, world!" on the screen:
 print('Hello, world!')
 # Ask the user for their name:
